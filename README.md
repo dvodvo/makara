@@ -1,3 +1,5 @@
+# This repository only adds postGIS adapter
+
 # Makara
 
 [![Build Status](https://travis-ci.org/taskrabbit/makara.png?branch=master)](https://travis-ci.org/taskrabbit/makara)
